@@ -2,9 +2,9 @@
 
 - 🔭 I’m currently working on **Multron Desktop Apps**
 
-- 🌱 I’m currently learning **C# and java and cyber security**
+- 🌱 I’m currently learning **C# and Java and Cyber Security**
 
-- 🤝 I’m looking for help with **I have a vds problem for hydradragonplatform**
+- 🤝 I’m looking for help with **I have a vds problem for HydraDragonPlatform**
 
 👨‍💻 My projects are available at [MajorGeeks](https://www.majorgeeks.com/#gsc.tab=0&gsc.q=multron&gsc.page=1) and [Softpedia](https://www.softpedia.com/dyn-search.php?search_term=multron)
 - 📫 How to reach me **https://discord.gg/xXmQw3MUAR or https://discord.gg/PaXX3nU8pB**
