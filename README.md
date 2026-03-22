@@ -6,7 +6,7 @@
 
 - 🤝 I’m looking for help with **I have a vds problem for hydradragonplatform**
 
-👨‍💻 All of my projects are available at [MajorGeeks](https://www.majorgeeks.com/#gsc.tab=0&gsc.q=multron&gsc.page=1) and [Softpedia](https://www.softpedia.com/dyn-search.php?search_term=multron)
+👨‍💻 My projects are available at [MajorGeeks](https://www.majorgeeks.com/#gsc.tab=0&gsc.q=multron&gsc.page=1) and [Softpedia](https://www.softpedia.com/dyn-search.php?search_term=multron)
 - 📫 How to reach me **https://discord.gg/xXmQw3MUAR or https://discord.gg/PaXX3nU8pB**
 
 - 📄 Know about my experiences [C# and python visual basic asp.net java experience](C# and python visual basic asp.net java experience)
