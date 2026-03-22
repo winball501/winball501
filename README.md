@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **Multron Desktop Apps**
 
-- 🌱 I’m currently learning **C# and Java and Cyber Security**
+- 🌱 I’m currently learning **C# Java and Cyber Security**
 
 - 🤝 I’m looking for help with **I have a vds problem for HydraDragonPlatform**
 
