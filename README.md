@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [C# and python Visual Basic .NET ASP.net Java experience]
 
-<h3 align="left">Connect with me: winball501_000 diskoko</h3>
+<h3 align="left">Connect with me: winball501_000 diskoko(discord app)</h3>
 <p align="left">
 </p>
 
