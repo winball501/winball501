@@ -1,6 +1,6 @@
 <h3 align="center">A developer from Turkey</h3>
 
-- 🔭 I’m currently working on **Multron Desktop Apps And HydraDragonPlatform**
+- 🔭 I’m currently working on **Multron Desktop Apps**
 
 - 🌱 I’m currently learning **C# Java and Cyber Security**
 
