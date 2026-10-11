@@ -21,7 +21,7 @@
 - **Current Project:** Multron Desktop Apps (system utilities for Windows).
 - **Core Focus:** Advanced C#, Java, Web Systems, Networking, and Cybersecurity.
 - **Published Software:** Verified releases available on [MajorGeeks](https://www.majorgeeks.com/#gsc.tab=0&gsc.q=multron&gsc.page=1) and [Softpedia](https://www.softpedia.com/dyn-search.php?search_term=multron).
-- **Technical Background:** Desktop applications, web development, network protocols, system programming, C#, Python, Visual Basic .NET, ASP.NET, and Java.
+- **Technical Background:** Desktop applications, web application security, network analysis, C#, Python, Visual Basic .NET, ASP.NET, and Java.
 
 ---
 
@@ -70,6 +70,7 @@
 
 #### Networking & Security
 <p align="left">
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/TCP%2FIP-005571?style=for-the-badge&logo=cisco&logoColor=white" alt="TCP/IP" />
