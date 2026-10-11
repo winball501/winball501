@@ -2,11 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=winball501&fontSize=56&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" alt="winball501 banner" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00ADB5&center=true&vCenter=true&width=550&lines=Desktop+%26+Web+Development;Computer+Networks+%26+Cybersecurity;Creator+of+Multron+Desktop+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00ADB5&center=true&vCenter=true&width=550&lines=Desktop+%26+Cross-Platform+Apps;Web+Development+%26+Networking;Reverse+Engineering+%26+Cybersecurity" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    Independent software developer specialized in desktop applications, web development, computer networking, and cybersecurity.
+    Independent software developer specialized in cross-platform desktop applications, web development, networking, and cybersecurity.
   </p>
 
   <a href="https://discord.com">
@@ -18,10 +18,10 @@
 
 ### About Me
 
-- **Current Project:** Multron Desktop Apps (system utilities for Windows).
+- **Current Project:** Multron Desktop Apps (system tools and utilities).
 - **Core Focus:** Advanced C#, Java, Web Systems, Networking, and Cybersecurity.
 - **Published Software:** Verified releases available on [MajorGeeks](https://www.majorgeeks.com/#gsc.tab=0&gsc.q=multron&gsc.page=1) and [Softpedia](https://www.softpedia.com/dyn-search.php?search_term=multron).
-- **Technical Background:** Desktop applications, web application security, network analysis, C#, Python, Visual Basic .NET, ASP.NET, and Java.
+- **Technical Background:** Cross-platform desktop applications, web security, network analysis, penetration testing environments, C#, Python, Visual Basic .NET, ASP.NET, and Java.
 
 ---
 
@@ -32,9 +32,9 @@
     <tr>
       <td width="50%" align="center">
         <h3>Multron Desktop Apps</h3>
-        <p>Performance utilities and maintenance tools engineered for Windows.</p>
+        <p>Performance utilities, system tools, and modern desktop software.</p>
         <a href="https://www.softpedia.com/dyn-search.php?search_term=multron">
-          <img src="https://img.shields.io/badge/Download_on-Softpedia-006699?style=flat-square&logo=windows&logoColor=white" alt="Softpedia" />
+          <img src="https://img.shields.io/badge/Download_on-Softpedia-006699?style=flat-square&logo=download&logoColor=white" alt="Softpedia" />
         </a>
         <a href="https://www.majorgeeks.com/#gsc.tab=0&gsc.q=multron&gsc.page=1">
           <img src="https://img.shields.io/badge/Download_on-MajorGeeks-8B0000?style=flat-square&logo=download&logoColor=white" alt="MajorGeeks" />
@@ -70,6 +70,7 @@
 
 #### Networking & Security
 <p align="left">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
