@@ -21,7 +21,7 @@
 - **Current Project:** Multron Desktop Apps (system tools and utilities).
 - **Core Focus:** Advanced C#, Java, Web Systems, Networking, and Cybersecurity.
 - **Published Software:** Verified releases available on [MajorGeeks](https://www.majorgeeks.com/#gsc.tab=0&gsc.q=multron&gsc.page=1) and [Softpedia](https://www.softpedia.com/dyn-search.php?search_term=multron).
-- **Technical Background:** Cross-platform desktop applications, web security, network analysis, penetration testing environments, C#, Python, Visual Basic .NET, ASP.NET, and Java.
+- **Technical Background:** desktop applications, web security, network analysis, penetration testing environments, C#, Python, Visual Basic .NET, ASP.NET, and Java.
 
 ---
 
@@ -54,6 +54,7 @@
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
